@@ -1,16 +1,13 @@
-### Hi there 👋
+## Me chamo Aline Wienke! 👋
+### Sou estudante de desenvolvimento Front-end.
 
-<!--
-**Alinewienke/Alinewienke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou usando o github para compartilhar meus projetos pessoais e documentar minha jornada de estudos.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ale-soares/)](https://www.linkedin.com/in/aline-wienke-sesterheim-65a183239//)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudando Javascript, HML e CSS
+- Aprendendo React.js
+
+#### Languages and tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,github)](https://skillicons.dev)
